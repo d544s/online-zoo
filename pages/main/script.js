@@ -2,6 +2,11 @@ document.getElementById('donate-btn').onclick = function () {
   location.href = '../donate/index.html';
 };
 
+document.getElementById('feed-btn').onclick = function () {
+  location.href = '../donate/index.html';
+};
+
+
 document.getElementById('logo-anchor').onclick = function () {
   location.href = './index.html';
 };
