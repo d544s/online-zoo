@@ -39,7 +39,9 @@
 }
 
 body{
+	  min-width: 1160px;
     width: 1600px;
+		
     margin: auto;
     overflow-x: hidden;
 }
